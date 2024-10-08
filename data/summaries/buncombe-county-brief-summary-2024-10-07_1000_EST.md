@@ -1,5 +1,3 @@
-### Key Points Summary for Citizens
-
 #### Water Services and Resources:
 - **Non-Potable Water Distribution**: Non-potable water for flushing toilets is available starting from today at various distribution sites. Citizens are encouraged to bring containers. Locations include:
   - Estes Elementary School, Asheville
@@ -59,4 +57,3 @@
 - Non-Profit Volunteer Info: [handsonashville.org](http://handsonashville.org)
 - Always Asheville Fund Info: [exploreasheville.com/always-asheville-fund](http://exploreasheville.com/always-asheville-fund)
 
-This summary provides essential information for citizens affected by the recent natural disaster, including available resources, locations, and important deadlines.

@@ -10,4 +10,39 @@ importers:
 
   site: {}
 
-  tools: {}
+  tools:
+    dependencies:
+      compromise:
+        specifier: ^14.14.1
+        version: 14.14.1
+
+packages:
+
+  compromise@14.14.1:
+    resolution: {integrity: sha512-2N/wPyFwtDaskKorKMs2sB+KTcrkOUHSaKZkNQMo8hEcNJHLt8NdwNVsN14vnmsgjPOxctTOYt3DWVxXIwXXxA==}
+    engines: {node: '>=12.0.0'}
+
+  efrt@2.7.0:
+    resolution: {integrity: sha512-/RInbCy1d4P6Zdfa+TMVsf/ufZVotat5hCw3QXmWtjU+3pFEOvOQ7ibo3aIxyCJw2leIeAMjmPj+1SLJiCpdrQ==}
+    engines: {node: '>=12.0.0'}
+
+  grad-school@0.0.5:
+    resolution: {integrity: sha512-rXunEHF9M9EkMydTBux7+IryYXEZinRk6g8OBOGDBzo/qWJjhTxy86i5q7lQYpCLHN8Sqv1XX3OIOc7ka2gtvQ==}
+    engines: {node: '>=8.0.0'}
+
+  suffix-thumb@5.0.2:
+    resolution: {integrity: sha512-I5PWXAFKx3FYnI9a+dQMWNqTxoRt6vdBdb0O+BJ1sxXCWtSoQCusc13E58f+9p4MYx/qCnEMkD5jac6K2j3dgA==}
+
+snapshots:
+
+  compromise@14.14.1:
+    dependencies:
+      efrt: 2.7.0
+      grad-school: 0.0.5
+      suffix-thumb: 5.0.2
+
+  efrt@2.7.0: {}
+
+  grad-school@0.0.5: {}
+
+  suffix-thumb@5.0.2: {}

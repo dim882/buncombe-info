@@ -1,0 +1,1 @@
+This is a transcript of a press briefing that has been broken into sentences on each line. Read the text and infer when a new speaker starts, then give me the line number when a new speaker starts and tell me the speaker

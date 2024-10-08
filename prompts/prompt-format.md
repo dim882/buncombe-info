@@ -1,3 +1,1 @@
-This is a raw text transcript of a press conference. Break it into paragraphs and sections by speaker. Do not remove any text. Simply reformat it. 
-
-Change references to Bunkham County to Buncombe County.
+This is a raw text transcript of a press conference. Break it into paragraphs and sections by speaker, formatted using markdown. Do not remove any text. Simply reformat it. Change references to Bunkham County to Buncombe County. When a string of numbers is given, it may be a phone number and should be formatted as a phone number.

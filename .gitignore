@@ -1,2 +1,4 @@
-audio
 .obsidian
+
+data/audio
+node_modules
